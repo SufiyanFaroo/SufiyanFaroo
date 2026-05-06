@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="Github-banner.png" alt="Sufiyan Farooq Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Sufiyan Farooq</h1>
 <h3 align="center">A passionate Flutter Developer from Pakistan 🇵🇰</h3>
 
